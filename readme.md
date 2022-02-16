@@ -22,3 +22,5 @@ They will use PM2 **HOWEVER** we do plan to move to docker containers!
 # We need your help!
 
 This project is open sorce please help us by making the HTML and CSS for the panel!
+
+# You will need node-gyp! (sorry)
