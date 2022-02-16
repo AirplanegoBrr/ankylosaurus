@@ -1,0 +1,26 @@
+{
+  "name": "ankylosaurus",
+  "version": "1.0.0",
+  "description": "Game mangent in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AirplanegoBrr/ankylosaurus.git"
+  },
+  "author": "AirplaneGobrr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AirplanegoBrr/ankylosaurus/issues"
+  },
+  "homepage": "https://github.com/AirplanegoBrr/ankylosaurus#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "expresss": "*",
+    "pm2": "^5.1.2",
+    "socket.io": "^4.4.1",
+    "socket.io-client": "^4.4.1"
+  }
+}
